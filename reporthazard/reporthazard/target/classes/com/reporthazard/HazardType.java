@@ -1,0 +1,11 @@
+enum HazardType {
+    ROADBLOCK,
+    ROADWORK,
+    MEDICAL, 
+    ACCIDENT,
+    ENVIRONMENT,
+    WEATHER,
+    ROADKILL,
+    SINKHOLE,
+    OTHER
+}

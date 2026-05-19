@@ -39,6 +39,10 @@ public class BusDriver {
 
     public void attachMessage(){
         //driver clicks button to add message (optional)
-    }        
+    }    
+
+    public void submitReport(){
+        //submits the report and subsequently creates the object
+    }
 
 }
